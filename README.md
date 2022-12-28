@@ -5,6 +5,7 @@
 ![LikeLion 10th](https://img.shields.io/badge/LikeLion%2010th-F68212.svg?&style=for-the-badge)
 ![CEOS 16th](https://img.shields.io/badge/CEOS%2016th-0078D7.svg?&style=for-the-badge) <br />
 [![velog Badge](https://img.shields.io/badge/velog-1CD232?style=flat&logo=velog&logoColor=white)](https://velog.io/@ch9eri)
+[![instagram Badge](https://img.shields.io/badge/instagram-A100FF?style=flat&logo=instagram&logoColor=white)](https://instaram.com/ch9eri)
 
 <br />
 
