@@ -13,9 +13,9 @@
 
 ## 🚶‍♀️ History 
   #### [멋쟁이사자처럼 홍익대학교](https://likelionhongik.com) IT 창업 동아리 <sub>  Web Frontend 10기 (2022.03 ~ 2023.02)  </sub>
-  #### [같공](https://likelionhongik.com](https://github.com/GotGong/GotGongFrontEnd)) 랭킹형 스터디 플랫폼 <sub>  Web Frontend Developer (2023.07 ~ 2023.08)  </sub>
-  #### [CEOS](https://likelionhongik.com](https://ceos-sinchon.com)) 신촌연합 IT 창업 동아리 <sub>  Web Frontend 16기 (2022.09 ~ 2023.02)  </sub>
-  #### [Teampple](https://likelionhongik.com](https://teampple.com)) 대학생 팀 프로젝트 협업 툴 <sub>  Web Frontend Developer (2023.01 ~ 2023.02)  </sub>
+  #### [같공](https://github.com/GotGong/GotGongFrontEnd) 랭킹형 스터디 플랫폼 <sub>  Web Frontend Developer (2023.07 ~ 2023.08)  </sub>
+  #### [CEOS]((https://ceos-sinchon.com) 신촌연합 IT 창업 동아리 <sub>  Web Frontend 16기 (2022.09 ~ 2023.02)  </sub>
+  #### [Teampple](https://teampple.com) 대학생 팀 프로젝트 협업 툴 <sub>  Web Frontend Developer (2023.01 ~ 2023.02)  </sub>
   #### [홍익대학교 멋사 11기 리크루팅](https://likelionhongik.com) <sub>  Web Frontend Developer (2023.01 ~ 2023.02)  </sub>
   #### [Active Minds](https://github.com/active-minds-hongik/active-minds-client) 발달장애인을 위한 게임형 서비스 <sub>  App Frontend Developer (2023.05 ~ 2023.6)  </sub>
   #### [Oven](https://github.com/oven-2023/oven-client) OTT 통합 추천 & 구독 서비스 <sub>  App Frontend Developer (2023.05 ~ 2023.11)  </sub>
